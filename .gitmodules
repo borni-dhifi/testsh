@@ -1,0 +1,4 @@
+[submodule "submodules/cybens"]
+	path = submodules/cybens
+	url = git@gitlab.com:hadooc/cybens.git
+	branch = 12.0
